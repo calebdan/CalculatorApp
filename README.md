@@ -1,4 +1,4 @@
 # CalculatorApp
 
-This is a simple Calculator Android Application, im making to help me better understand Kotlin.
-There there is not fancy or too impressive but it is getting the job done.
+This is a simple Calculator Android Application i made to help me better understand Kotlin.
+I should warn you that there is not fancy or impressive but it is gets the job done.
